@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'contact_form' => 'Contact',
+    'message_sent_successfully' => 'Vielen Dank, deine Nachricht wurde erfolgreich übermittelt.',
+    'new_contact_message' => 'Neue Kontaktnachricht',
+    'for-companies' => 'Afin de modifier les données de votre restaurant, nous vous demandons de reprendre ce restaurant ici pour y travailler par la suite.',
+    'side-title' => 'Nous aimerions avoir de vos nouvelles',
+    'side-content' => 'Remplissez ce formulaire et nous vous contacterons rapidement.',
+    'address' => 'Address',
+    'address-details' => 'Allgäuer Str. 11 in 87435 Kempten (Allgäu)',
+    'contacts' => 'Contacts',
+    'contacts-details' => 'premium(@)foodlocator(dot)menu  hello(@)foodlocator(dot)menu  jobs(@)foodlocator(dot)menu',
+    'headline-our-team' => 'Notre équipe',
+    'text-below-our-team' => 'Nous sommes une équipe de professionnels jeunes, dynamiques et ambitieux passionnés par la nourriture. Notre objectif principal est d\'aider les gens à découvrir et à profiter des meilleurs restaurants proche d\'eux tous les jours. Nous sommes impatients d\'avoir de vos nouvelles !',
+    'headline-help-you' => 'Comment puis-je vous aider ?',
+    'headline-update-restaurant' => 'J’aimerais mettre mon restaurant à jour',
+    'text-below-update-restaurant' => 'Vous pouvez modifier les informations de votre restaurant simplement en le revendiquant. C’est gratuit !',
+    'headline-update-visited-restaurant' => 'J’aimerais actualiser un restaurant que j’ai visité',
+    'text-below-update-visited-restaurant' => 'Vous pouvez éditer les changements suggérés de n’importe quel restaurant en cliquant sur le bouton “éditer” de la page du restaurant',
+    'headline-delete-restaurant' => 'J’aimerais retirer mon restaurant de cette page',
+    'text-below-delete-restaurant' => 'Afin d’éviter la fraude, vous devez revendiquer votre restaurant avec des preuves avant de pouvoir le supprimer',
+    'headline-order-restaurant' => 'J’aimerais passer commande',
+    'text-below-order-restaurant' => ':site_name n’est pas le propriétaire du restaurant qui apparait. Merci, demandez à utiliser les informations de contact se trouvant sur la page de profil du restaurant.',
+    'email_header' => 'Lacarte.menu - Trouve des cartes près de toi',
+    'email_footer' => 'Tous droits réservés',
+];

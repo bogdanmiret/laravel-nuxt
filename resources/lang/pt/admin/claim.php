@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'table' => [
+        'id' => 'ID',
+        'user' => 'User',
+        'company' => 'Company',
+        'status' => 'Status',
+        'approved' => 'Genehmigt',
+        'created_at' => 'Created',
+        'actions' => 'Actions',
+        'first_name' => 'Nome',
+        'last_name' => 'Sobrenome',
+        'city' => 'City',
+        'email' => 'Email',
+        'user-info' => 'User Informations',
+        'restaurant-info' => 'Informações do restaurante',
+        'restaurant-name' => 'Nome do seu restaurante',
+        'restaurant-city' => 'Cidade do restaurante',
+        'restaurant-address' => 'Endereço do restautante',
+        'restaurant-zipcode' => 'Código postal do restaurante',
+        'restaurant-coordinates' => 'Coordenadas do restaurante',
+        'lat' => 'Latitude',
+        'lng' => 'Longitude',
+        'claim-details' => 'Claim details',
+        'claim-message' => 'Você é o proprietário (a) do restaurante e gostaria de administrá-lo você mesmo(a). Escreva-nos e adicione (escolher arquivo) um documento para a verificação. Revisaremos seu pedido e ativaremos sua conta.',
+        'claim-proof' => 'Proof',
+        'package' => 'Package',
+    ],
+    'claims' => 'Claims',
+];

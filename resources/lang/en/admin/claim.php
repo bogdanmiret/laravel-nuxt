@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'table' => [
+        'id' => 'ID',
+        'user' => 'User',
+        'company' => 'Company',
+        'status' => 'Status',
+        'approved' => 'Approved',
+        'created_at' => 'Created',
+        'actions' => 'Actions',
+        'first_name' => 'First name',
+        'last_name' => 'Last name',
+        'city' => 'City',
+        'email' => 'Email',
+        'user-info' => 'User Informations',
+        'restaurant-info' => 'Restaurant Informations',
+        'restaurant-name' => 'Restaurant name',
+        'restaurant-city' => 'Restaurant city',
+        'restaurant-address' => 'Restaurant address',
+        'restaurant-zipcode' => 'Restaurant zipcode',
+        'restaurant-coordinates' => 'Restaurant coordinates',
+        'lat' => 'Latitude',
+        'lng' => 'Longitude',
+        'claim-details' => 'Claim details',
+        'claim-message' => 'Message',
+        'claim-proof' => 'Proof',
+        'package' => 'Package',
+    ],
+    'claims' => 'Claims',
+];

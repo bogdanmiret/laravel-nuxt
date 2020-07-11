@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'press-page_header_title' => 'Informatii de presa',
+    'press-page_s1_title' => 'Ce este :site_name ?',
+    'press-page_s1_p1' => ':site_name și-a început drumul în 2015, cu un număr limitat de persoane care muncesc din greu și se străduiesc să atingă un obiectiv comun - să ofere cea mai cuprinzătoare bază de date cu privire la produsele alimentare și restaurante. Nu mai trebuie ca oaspeții restaurantului să fie forțați să navigheze prin mai multe site-uri web pentru a găsi locul perfect pentru a mânca. Rețeaua :site_name este acum un site web care acoperă fiecare restaurant, recenzie și activități relevante cum ar fi verificarea recenziilor, rezervarea unei mese sau navigare.',
+    'press-page_s1_p2' => 'Echipa adună, analizează și organizează informații relevante pentru a le înscrie în baza de date. Opțiunile de căutare, inclusiv facilitățile, tipul de bucătărie și feedback-ul permite oaspeților să restrângă rezultatele căutării. Comentariile agregate de pe mai multe site-uri web îmbunătățesc transparența pentru oaspeți și îi ajută să aleagă ce este mai bun pentru ei.',
+    'press-page_s1_p3' => 'Baza de date găzduiește peste 1 milion de restaurante, răspândite în multe țări din întreaga lume. :site_name este disponibil în prezent în șase limbi: engleză, germană, franceză, portugheză, spaniolă și română. Numărul vizitatorilor lunari este de aproximativ 1,5 milioane de persoane. Platforma este actualizată în permanență cu noi restaurante, iar datele existente privind restaurantul sunt îmbunătățite în mod constant, cu informații cumulate și calculate.',
+    'press-page_s2_title' => 'Fapte',
+    'press-page_s2_image_text' => 'Fondat - <b>2015</b>',
+    'press-page_team' => 'Echipa',
+    'press-page_platform' => 'Platforma',
+    'press-page_users' => 'Utilizatori',
+    'press-page_s2_p_team' => 'O echipă dedicată și profesională de 12 membri.',
+    'press-page_s2_p_platform' => '75% din traficul nostru este generat de dispozitive mobile.',
+    'press-page_s2_p_users' => 'Media noastra de vizitatori este de 1.5 milioane in acest moment. Servim oameni din peste 20 de tari.',
+    'press-page_s3_title' => 'Corporate Identity Downloads',
+    'press-page_s3_hex' => 'Culoare Hex',
+    'press-page_s3_image_size_small' => '<p>Culoare Mic</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s3_image_size_medium' => '<p>Mediu</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s3_image_size_large' => '<p>Mare</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s4_title' => ':site_name Ofiter de presa',
+    'press-page_s4_p' => 'Dacă aveți întrebări despre serviciile sau obiectivele noastre, nu ezitați să ne contactați. Așteptăm cu nerăbdare mesajul dvs.!',
+    'press-page_footer_title' => 'Presă',
+];

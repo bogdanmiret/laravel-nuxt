@@ -1,0 +1,23 @@
+<?php
+
+return [
+    'title' => 'A propos de nous',
+    'quote' => 'Il n’y pas d’amour plus sincère que celui pour la nourriture ',
+    'team-text' => 'Nous sommes une équipe de professionnels jeunes, dynamiques et ambitieux passionnés par la nourriture. Notre objectif principal est d’aider les gens à découvrir et profiter des meilleurs restaurants proches d’eux tous les jours.',
+    'get-to-know-us-title' => 'Connaissez-nous',
+    'get-to-know-us-p1' => 'Nous sommes une équipe internationale enthousiaste d’amoureux de la cuisine et de professionnels du Web vous offrant la base de donnés d’informations la plus complète à propos de la cuisine et des restaurants. Notre amour de la nourriture provenant de différentes cuisines du monde entier ne cesse de grandir au fur et à mesure que nous en apprenons plus sur les différentes cultures. Les variétés et les options sur les menus ne cessent de nous surprendre. ',
+    'get-to-know-us-p2' => 'Nous adorons nous rendre dans les restaurants et y manger. Un de nos objectifs est de localiser les meilleurs restaurants dans le monde entier et nous souhaitons les lister dans notre base de donnés grandissante afin de les rendre visibles pour tous.',
+    'get-to-know-us-p3' => 'Notre équipe dévouée travaille dur tous les jours pour compléter la plateforme et lister un nombre croissant de restaurants dans le monde entier, permettant ainsi à notre communauté d’amateur de cuisine de partager leurs commentaires et opinions, vous donnant l’opportunité en tant que client de choisir ce qui vous correspond le plus.',
+    'our-beliefs-title' => 'Nos convictions',
+    'our-beliefs-li1' => 'Nous respectons les restaurants avec lesquels nous travaillons. C’est pourquoi nous évaluons, estimons et analysons chaque restaurant et nous réunissons des informations en rapport à la cuisine pour les ajouter à notre énorme base de donnés. Notre priorité est de nous assurer que les restaurants soient trouvés plus facilement et que les résultats de recherches soient cohérents et appropriés.',
+    'our-beliefs-li2' => 'Nous tentons d’être aussi transparents que possible envers les propriétaires de restaurants tout comme envers les clients. Les clients ont toujours accès à plusieurs options incluant la liste des services, des questionnaires, des commentaires et bien plus.',
+    'our-beliefs-li3' => 'Nous souhaitons rendre le processus de trouver un bon restaurant aussi simple que possible et c’est pourquoi nous fournissons des informations de contact précises et à jour pour les restaurants .',
+    'our-beliefs-li4' => 'Nous mettons tout en oeuvre lors de nos recherches et de notre développement afin d’apporter les modifications nécessaires régulièrement qui encouragent les gens à toujours essayer de nouvelles choses.',
+    'started-menulist-title' => 'Raisons pour lesquelles nous avons lancé :site_name',
+    'started-menulist-p1' => 'En naviguant à travers les différents restaurants desquels on peut commander, nous nous sommes rendu compte que ces derniers apparaissaient sur plusieurs sites internet de livraisons. Les clients devaient faire des recherches minutieuses lors de la navigation à travers différents sites internet et même ainsi, un peu de chance était requise pour trouver un bon restaurant à chaque fois. Réunir toutes les fonctionnalités en une seule plateforme à rendu le tout beaucoup plus simple.',
+    'started-menulist-p2' => 'Lors de nos visites dans les villes, nous ne voulions pas visiter de multiples pages internet pour trouver les meilleurs restaurants proches. Nous avons également remarqué le besoin urgent de commentaires honnêtes de la part des clients s’étant rendus dans ces restaurants et ayant goûté leur cuisine afin de permettre aux visiteurs du sites internet de choisir les meilleures options.',
+    'join-team-title' => 'Réjoignez notre équipe',
+    'join-team-p' => 'Chez :site_name We, nous nous efforçons d’achever les buts que nous nous sommes fixés. Notre objectif est de nous améliorer chaque jour et de nous assurer que nos visiteurs connaissent la meilleure expérience culinaire possible. Nos missions et nos croyances sont profondément enracinées dans chacun des membres de notre équipe. Si vous sentez que vous avez ce que cela demande pour rendre le monde de la cuisine meilleur, nous sommes ici pour promouvoir vos opportunités de carrières. Nous vous encourageons à prendre l’initiative. ',
+    'join-team-button' => 'Voir les emplois actuels',
+    'workplace' => 'Nous vous offrons un super espace de travail. Un endroit depuis lequel vous pouvez avoir l’opportunité de prendre les initiatives pour changer le monde.',
+];

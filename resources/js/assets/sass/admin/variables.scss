@@ -1,0 +1,78 @@
+//From old admin
+.main-tab-content {
+  background: #fff;
+  padding: 10px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.select2-dropdown .select2-search__field:focus, .select2-search--inline .select2-search__field:focus {
+  border: none;
+}
+
+.field-info {
+  font-size: 13px;
+  color: #c76161;
+}
+
+.conf_page_subtitle {
+  color: #3c8dbc;
+  font-weight: bold;
+}
+
+.admin_conf_func {
+  padding: 5px 10px !important;
+}
+
+.func_wrapper {
+  padding-top: 25px;
+}
+
+.translation-notification {
+  display: none;
+  color: green;
+  text-align: center;
+  width: 10%;
+}
+
+@keyframes heartFadeInOut {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(.95);
+  }
+  35% {
+    transform: scale(.9);
+  }
+  45% {
+    transform: scale(.8);
+  }
+  55% {
+    transform: scale(.9);
+  }
+  65% {
+    transform: scale(.95);
+  }
+  75% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.05);
+  }
+}
+
+.translation-notification {
+  animation-name: heartFadeInOut;
+  animation-iteration-count: infinite;
+  animation-duration: 2s;
+}
+
+.translation-description {
+  font-size: 13px;
+  color: #c76161;
+}
+
+
+
+

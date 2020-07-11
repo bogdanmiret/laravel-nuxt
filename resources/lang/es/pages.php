@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'press-page_header_title' => 'Información de prensa',
+    'press-page_s1_title' => '¿Qué es :site_name?',
+    'press-page_s1_p1' => ':site_name comenzó su travesía allá por el 2015, con una pequeña cantidad de personas trabajadoras que se esforzaron con mucha dedicación para alcanzar un objetivo común: proporcionar la más amplia base de datos de comida y restaurantes. Los clientes de restaurantes ya no tienen que recorrer varios sitios web para encontrar el lugar perfecto para comer. Ahora la red :site_name es el único sitio web en el que hay que parar para cubrir a todos los restaurantes, revisarlos y realizar actividades relevantes como leer los comentarios, reservar una mesa o navegar.',
+    'press-page_s1_p2' => 'El equipo reúne, analiza y organiza la información relevante para enumerarla en la base de datos. Las opciones de búsqueda, incluyendo las comodidades, el tipo de cocina y los comentarios, les permiten a los clientes limitar los resultados de búsqueda. Los comentarios se agregaron desde varios sitios web para mejorar la transparencia para los clientes y ayudarlos a elegir lo que es mejor para ellos.',
+    'press-page_s1_p3' => 'La base de datos alberga más de 1 millón de restaurantes dispersos entre muchos países del mundo. :site_name actualmente está disponible en seis idiomas: Inglés, alemán, francés, portugués, español y rumano. La cantidad promedio de visitantes por mes ronda los 1,5 millones de personas. La plataforma se actualiza constantemente con restaurantes nuevos, y los datos disponibles sobre los restaurantes se mejoran constantemente tanto con información que se va cargando como información recopilada.',
+    'press-page_s2_title' => 'Tabla de datos',
+    'press-page_s2_image_text' => 'Fundado en - <b>2015</b>',
+    'press-page_team' => 'Equipo',
+    'press-page_platform' => 'Plataforma',
+    'press-page_users' => 'Usuarios',
+    'press-page_s2_p_team' => 'Un equipo especializado y profesional de 12 integrantes.',
+    'press-page_s2_p_platform' => 'El 75% de nuestro tráfico se genera en dispositivos móviles',
+    'press-page_s2_p_users' => 'Al momento tenemos un promedio de aproximadamente 1,5 millones de visitantes. Atendemos gente de más de 20 países.',
+    'press-page_s3_title' => 'Corporate Identity Downloads',
+    'press-page_s3_hex' => 'Colores Hex',
+    'press-page_s3_image_size_small' => '<p>Pequeño</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s3_image_size_medium' => '<p>Mediano</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s3_image_size_large' => '<p>Grande</p> <small>(Dimensiune - :size)</small>',
+    'press-page_s4_title' => 'Vocero de prensa de :site_name',
+    'press-page_s4_p' => 'Si tiene alguna pregunta sobre nuestros servicios o nuestra misión, por favor no dude en contactarnos. ¡Estamos ansiosos de hablar con usted!',
+    'press-page_footer_title' => 'Prensa',
+];

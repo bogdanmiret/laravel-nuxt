@@ -1,0 +1,139 @@
+.ewoiplnx-weknmse32 {
+  display: none;
+  text-align: center;
+}
+
+.ewoiplnx-restaurants-listing, .ewoiplnx-dishes-listing {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  //max-height: 90px;
+}
+
+@media(max-width: 768px) {
+  .ewoiplnx-restaurants-listing, .ewoiplnx-dishes-listing {
+    max-height: 250px;
+  }
+}
+
+.ewoiplnx-restaurant-listing-right-sidebar {
+  margin-top: 39px;
+  max-width: 100%;
+}
+
+.ewoiplnx-company-sidebar {
+  padding: 19px;
+  max-height: 280px;
+}
+
+//.ewoiplnx-restaurant-top {
+//  margin-bottom: 12px;
+//}
+
+.ewoiplnx-home-before-footer {
+  margin-top: 50px;
+  margin-bottom: -52px;
+}
+
+.ewoiplnx-dish-listing-sidebar {
+  margin-top: 55px
+}
+
+.ewoiplnx-mobile-between-menu-search-homepage {
+  margin-top: 45px;
+  margin-bottom: -50px;
+}
+
+.container.homepage-after-jumbotron {
+  padding-top: 0 !important;
+}
+
+.main-inner.homepage {
+  padding: 60px 0 0 0;
+}
+
+.mobile-restaurant-under-questions-ewoiplnx {
+  margin-top: 30px;
+  margin-bottom: -20px;
+}
+
+.ewoiplnx-restaurant-left-sidebar {
+  padding: 10px 0 0;
+}
+
+/**
+  ewoiplnx holders
+ */
+
+/**
+  ewoiplnx holders - Homepage
+ */
+.ewoiplnx-weknm.desktop-homepage-before-footer {
+  height: 38px !important;
+}
+
+ewoiplnx-weknm.mobile-between-menu-search-homepage {
+  height: 245px !important;
+}
+
+.ewoiplnx-weknm.restaurant-listing-right-sidebar {
+  height: 600px;
+}
+
+@media(max-width: 768px) {
+  .ewoiplnx-weknm.restaurant-listing-right-sidebar {
+    height: 250px;
+  }
+}
+
+/**
+  ewoiplnx holders - Restaurant listing
+ */
+
+.ewoiplnx-weknm.restaurant-listing {
+  height: 90px;
+}
+
+@media(max-width: 768px) {
+  .ewoiplnx-weknm.restaurant-listing {
+    height: 250px;
+  }
+}
+
+/**
+  ewoiplnx holders - Restaurant
+ */
+.ewoiplnx-weknm.desktop-restaurant-page-top {
+  height: 90px;
+}
+
+.ewoiplnx-weknm.desktop-restaurant-left-sidebar {
+  height: 290px;
+}
+
+.ewoiplnx-weknm.mobile-restaurant-under-pl, .ewoiplnx-weknm.mobile-restaurant-under-questions {
+  height: 250px;
+}
+
+/**
+  ewoiplnx holders - Dish listing
+ */
+
+.ewoiplnx-weknm.dish-listing {
+  height: 90px;
+}
+
+@media(max-width: 768px) {
+  .ewoiplnx-weknm.dish-listing {
+    height: 250px;
+  }
+}
+
+.ewoiplnx-weknm.dish-listing-right-sidebar {
+  height: 600px;
+}
+
+@media(max-width: 768px) {
+  .ewoiplnx-weknm.dish-listing-right-sidebar {
+    height: 250px;
+  }
+}

@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'press-page_header_title' => 'Presseinformationen',
+    'press-page_s1_title' => 'Was ist :site_name?',
+    'press-page_s1_p1' => 'Das :site_name Netzwerk wurde 2016 durch eine kleine Gruppe engagierter Webdesign-Profis gegründet. Das Ziel war es, die umfangreichste Datenbank zum Thema Essen und Restaurants online zu stellen. Restaurantbesucher sollten nicht mehr länger gezwungen sein, dutzende unterschiedliche Websites nach dem perfekten Restaurant zu durchsuchen. :site_name bietet heute sämtliche Informationen, die für die Entscheidung des perfekten Restaurants wichtig sind aus einer Hand. Zu fast jedem Restaurant sind umfangreiche Bewertungen unterschiedlicher Websites vorhanden, es kann ein Tisch gebucht werden und unterschiedliche Möglichkeiten der Anreise werden aufgezeigt.',
+    'press-page_s1_p2' => 'Das :site_name Team sammelt, analysiert und organisiert relevante Informationen, um diese der Datenbank hinzuzufügen. Filtermöglichkeiten sind u.a. die Ausstattung, Ausrichtung der Küche, Bewertungen und die Möglichkeit der Online-Reservierung und Lieferung. Die von unterschiedlichsten Websites gesammelten und zusammengefassten Bewertungen erhöhen die Transparenz für die Gäste.',
+    'press-page_s1_p3' => 'Die Datenbank umfasst aktuell (Juli 2019) mehr als 1 Millionen Restaurants weltweit. Das Angebot ist in sechs Sprachen verfügbar, Englisch, Deutsch, Französisch, Portugiesisch und Rumänisch. Die Anzahl der monatlichen Website-Besucher liegt bei ca. 1,5 Millionen Menschen. :site_name wird ständig um weitere Restaurants erweitert, und die existierenden Restaurants werden durch gesammelte, sowie aus existierenden Daten generierte Informationen erweitert.',
+    'press-page_s2_title' => 'Fakten',
+    'press-page_s2_image_text' => 'Gegründet - <b>2015</b>',
+    'press-page_team' => 'Team',
+    'press-page_platform' => 'Plattform',
+    'press-page_users' => 'Nutzer',
+    'press-page_s2_p_team' => '12 Personen geballte Restaurant- und Onlinekompetenz.',
+    'press-page_s2_p_platform' => '75% unseres Traffics wird über Mobilgeräte generiert.',
+    'press-page_s2_p_users' => 'Ungefähr 1.5 Millionen individuelle Personen aus 20 Ländern nutzen unser Angebot jeden Monat.',
+    'press-page_s3_title' => 'Corporate Identity Downloads',
+    'press-page_s3_hex' => 'Hex Farben',
+    'press-page_s3_image_size_small' => '<p>Klein</p> <small>(Größe - :size)</small>',
+    'press-page_s3_image_size_medium' => '<p>Medium</p> <small>(Größe - :size)</small>',
+    'press-page_s3_image_size_large' => '<p>Groß</p> <small>(Größe - :size)</small>',
+    'press-page_s4_title' => ':site_name  Pressesprecherin',
+    'press-page_s4_p' => 'Wenn Sie Fragen zu unseren Dienstleistungen oder Zielen haben, zögern Sie bitte nicht uns zu kontaktieren. Wir freuen uns auf Ihre Nachricht!',
+    'press-page_footer_title' => 'Presseinformationen',
+];

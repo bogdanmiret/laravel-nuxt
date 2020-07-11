@@ -1,0 +1,79 @@
+.paginate_button {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  background: #1a1a1a;
+  color: #ffffff;
+  display: inline-block;
+  padding: 15px 40px;
+  transition: all 0.2s ease;
+  max-width: 100%;
+  margin: 2px 0 3px 0;
+  border-radius: 4px;
+  background: transparent;
+  border: 2px solid rgba(0, 0, 0, .2);
+  color: #1a1a1a;
+  font-size: 9px;
+  line-height: 16px;
+  padding: 7px 14px;
+  margin-right: 10px;
+}
+
+.paginate_button:hover {
+  background: #1a1a1a;
+  border-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.searchByTag, .searchByTag:active, .searchByTag:hover {
+  color: #000000 !important;
+  background: transparent;
+  padding: 2px;
+  text-decoration: none;
+}
+
+.searchByTag.checked {
+  color: #d20006 !important;
+  background: transparent;
+  border: 2px solid #a50005;
+  padding: 2px;
+  text-decoration: none;
+}
+
+.searchByCategory.checked {
+  color: #d20006 !important;
+}
+
+.blog-well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 1px solid #d3e0e9;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.article-listing-image {
+  height: 120px;
+  width: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+@media(max-width: 380px){
+  .article-listing-image {
+    width: 100%;
+  }
+}
+
+.similar-article-sidebar-image {
+  height: 40px;
+  width: 70px;
+  background-size: cover;
+  background-position: center;
+}

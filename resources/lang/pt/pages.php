@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'press-page_header_title' => 'Informação de Imprensa',
+    'press-page_s1_title' => 'O que é o :site_name?',
+    'press-page_s1_p1' => 'O :site_name começou o seu caminho há algum tempo, em 2015, com um número limitado de indivíduos trabalhadores e dedicados que se esforçaram para alcançar um objetivo comum - oferecer a base de dados com informação acerca de comida e restaurantes mais compreensiva. Terminou a obrigação dos clientes dos restaurantes de procurarem o sítio perfeito para comerem em vários websites. O canal :site_name é agora o único website que tens de visitar que cobre todos os restaurantes, críticas e atividades relevantes como ver as críticas, reservar uma mesa ou navegar.',
+    'press-page_s1_p2' => 'A equipa junta, analisa e organiza a informação relevante de forma a alistá-la na base de dados. As opções de procura, que incluem comodidades, tipos de culinária e feedback, permitem ao cliente diminuir os resultados da pesquisa. As críticas agregadas de múltiplos websites aumentam a transparência para os clientes e ajudam-os a escolher o que é melhor para eles.',
+    'press-page_s1_p3' => 'A base de dados tem muito mais que um milhão de restaurantes espalhados por muitos países do globo. O :site_name está atualmente disponível em seis idiomas: inglês, alemão, francês, português, espanhol e romeno. O número médio de visitantes é cerca de 1,5 milhões de indivíduos por mês. A plataforma é frequentemente atualizada com novos restaurantes e os dados dos restaurantes existentes são constantemente melhorados com informação tanto obtida como computada.',
+    'press-page_s2_title' => 'Factos',
+    'press-page_s2_image_text' => 'Fundado - <b>2015</b>',
+    'press-page_team' => 'Equipa',
+    'press-page_platform' => 'Plataforma',
+    'press-page_users' => 'Utilizadores',
+    'press-page_s2_p_team' => 'Uma equipa dedicada e profissional com 12 membros.',
+    'press-page_s2_p_platform' => '75% do nosso tráfico é gerado por dispositivos móveis.',
+    'press-page_s2_p_users' => 'Neste momento, a média dos nossos visitantes diários é 1,5 milhões. Servimos pessoas de mais de 20 países.',
+    'press-page_s3_title' => 'Corporate Identity Downloads',
+    'press-page_s3_hex' => 'Cor Hex',
+    'press-page_s3_image_size_small' => '<p>Pequeno</p> <small>(Tamanho - :size)</small>',
+    'press-page_s3_image_size_medium' => '<p>Médio</p> <small>(Tamanho - :size)</small>',
+    'press-page_s3_image_size_large' => '<p>Grande</p> <small>(Tamanho - :size)</small>',
+    'press-page_s4_title' => 'Acessor de Imprensa de  :site_name',
+    'press-page_s4_p' => 'Se tiveres alguma questão acerca dos nossos serviços ou missão, por favor não hesites em perguntar-nos. Estamos ansiosos por falar contigo!',
+    'press-page_footer_title' => 'Imprensa',
+];

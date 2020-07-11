@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'contact_form' => 'Contacto',
+    'message_sent_successfully' => 'Vielen Dank, deine Nachricht wurde erfolgreich übermittelt.',
+    'new_contact_message' => 'Neue Kontaktnachricht',
+    'for-companies' => 'Para modificar los datos de restaurante le pedimos asumir este restaurante para modificarlo posteriormente',
+    'side-title' => 'Nos encantaría saber de ti',
+    'side-content' => 'Rellene este formulario y nos pondremos en contacto con usted en breve.',
+    'address' => 'Address',
+    'address-details' => 'Allgäuer Str. 11 in 87435 Kempten (Allgäu)',
+    'contacts' => 'Contacts',
+    'contacts-details' => 'premium(@)foodlocator(dot)menu  hello(@)foodlocator(dot)menu  jobs(@)foodlocator(dot)menu',
+    'headline-our-team' => 'Nuestro equipo',
+    'text-below-our-team' => 'Somos un equipo ambicioso y dinámico de jóvenes amantes de la comida. Nuestro objetivo principal es ayudar a la gente a encontrar y disfrutar de los mejores lugares para salir a comer cerca todos los días. ¡Estamos ansiosos por contactarnos con usted!',
+    'headline-help-you' => '¿Cómo lo podemos ayudar?',
+    'headline-update-restaurant' => 'Me gustaría actualizar mi restaurante',
+    'text-below-update-restaurant' => 'Puede modificar la información de su restaurante simplemente reclamándolo. ¡Es gratis!',
+    'headline-update-visited-restaurant' => 'Me gustaría actualizar un restaurante que visité ',
+    'text-below-update-visited-restaurant' => 'Puede editar los cambios sugeridos a cualquier restaurante haciendo click en el botón “Editar” en la página del restaurante',
+    'headline-delete-restaurant' => 'Me gustaría eliminar mi restaurante de esta página',
+    'text-below-delete-restaurant' => 'Para prevenir el fraude, tiene que reclamar su restaurante con pruebas antes de poder eliminarlo.',
+    'headline-order-restaurant' => 'Me gustaría realizar un pedido',
+    'text-below-order-restaurant' => ':site_name no es el dueño del restaurante que se muestra. Por favor, consulte utilizando la información de contacto que se encuentra en la página de perfil del restaurante.',
+    'email_header' => 'Carta.menu - Encuentra cartas en tu zona',
+    'email_footer' => 'Todos los derechos reservados.',
+];

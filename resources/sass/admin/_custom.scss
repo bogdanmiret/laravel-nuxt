@@ -1,0 +1,82 @@
+.logged-in-as {
+  margin:0;
+  border-radius:0;
+}
+
+// Margin/Padding Helpers
+$margin-padding: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50;
+@each $mp in $margin-padding {
+  .mt-#{$mp} {
+    margin-top:#{$mp}px !important;
+  }
+  .mb-#{$mp} {
+    margin-bottom:#{$mp}px !important;
+  }
+  .ml-#{$mp} {
+    margin-left:#{$mp}px !important;
+  }
+  .mr-#{$mp} {
+    margin-right:#{$mp}px !important;
+  }
+
+  .pt-#{$mp} {
+    padding-top:#{$mp}px !important;
+  }
+  .pb-#{$mp} {
+    padding-bottom:#{$mp}px !important;
+  }
+  .pl-#{$mp} {
+    padding-left:#{$mp}px !important;
+  }
+  .pr-#{$mp} {
+    padding-right:#{$mp}px !important;
+  }
+}
+
+#myTabContent {
+  padding:10px;
+}
+
+.dataTables_filter {
+  text-align: right;
+}
+
+.flex-users-group {
+  display:flex;
+  justify-content: space-around;
+}
+.flex-users-group a {
+  width: 100%;
+}
+
+.impersonator-menu {
+  height: $impersonator-height;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background: $impersonator-bg-color;
+}
+.vertical-center {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.no-margin {
+  margin-left: 0;
+  margin-right: 0;
+}
+.profile-avatar {
+  max-height: 250px;
+}
+
+.identical {
+  background: #67BBE5;
+  padding:10px;
+  margin-bottom: 5px;
+}
+
+.pending {
+  background: #FAB95F;
+  padding:10px;
+  margin-bottom: 5px;
+}
